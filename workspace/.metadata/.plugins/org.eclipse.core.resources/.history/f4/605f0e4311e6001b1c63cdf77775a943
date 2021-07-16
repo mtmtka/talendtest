@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Qo7PIOYREeuwaZLBBx7omQ" id="_Qo3kwOYREeuwaZLBBx7omQ" label="Test1" version="0.1" statusCode="" item="_Qo7PIuYREeuwaZLBBx7omQ" displayName="Test1">
+    <author href="../talend.project#_Ehe8MOYREeuwaZLBBx7omQ"/>
+    <additionalProperties xmi:id="_Qo-5gOYREeuwaZLBBx7omQ" key="created_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_Qo-5geYREeuwaZLBBx7omQ" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_Qo-5guYREeuwaZLBBx7omQ" key="created_date" value="2021-07-16T17:38:57.048+0900"/>
+    <additionalProperties xmi:id="_Qo-5g-YREeuwaZLBBx7omQ" key="modified_product_fullname" value="Talend Open Studio for Big Data"/>
+    <additionalProperties xmi:id="_Qo-5hOYREeuwaZLBBx7omQ" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_Qo-5heYREeuwaZLBBx7omQ" key="modified_date" value="2021-07-16T17:38:57.750+0900"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Qo7PIeYREeuwaZLBBx7omQ" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_Qo7PIuYREeuwaZLBBx7omQ" property="_Qo7PIOYREeuwaZLBBx7omQ" state="_Qo7PIeYREeuwaZLBBx7omQ">
+    <process href="Test1_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
